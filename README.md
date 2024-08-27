@@ -1,6 +1,15 @@
 # Multiple Disease Prediction WebApp
 
-This repository contains a Streamlit web application that predicts the risk of four different diseases: Diabetes, Cardiovascular Disease, Heart Disease, and Liver Disease. The app uses machine learning models trained on relevant datasets to provide predictions based on user input.
+This repository contains a Streamlit web application that predicts the risk of four different diseases: Diabetes, Cardiovascular Disease, Heart Disease, and Liver Disease. The app uses machine learning models trained on relevant datasets to provide predictions based on user input.    
+
+  
+*Diabetes Low Risk Situation:*
+![test1](https://github.com/user-attachments/assets/899b6e3f-295e-4c43-b899-43bf520f02fd)
+
+
+*Diabetes High Risk Situation:*
+![test2](https://github.com/user-attachments/assets/25d9d3eb-c83f-4b71-b686-46137a94ce6d)
+
 
 ## Features
 - **User Input:** The app allows users to input various health metrics such as age, gender, BMI, blood pressure, cholesterol levels, blood glucose levels, etc.
